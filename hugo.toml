@@ -1,0 +1,11 @@
+baseURL = 'https://docs.sallehuddin.com/dana'
+languageCode = 'en-us'
+title = 'Dana Management Platform Documentation'
+
+[module]
+[[module.imports]]
+path = 'github.com/colinwilson/lotusdocs'
+disable = false
+[[module.imports]]
+path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+disable = false
